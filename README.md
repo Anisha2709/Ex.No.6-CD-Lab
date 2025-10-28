@@ -86,7 +86,7 @@ t2 = t1 - c
 
 ## OUTPUT:
 
-<img width="856" height="547" alt="image" src="https://github.com/user-attachments/assets/e11634d0-90fa-43a3-9944-d28a1649dabb" />
+<img width="856" height="547" alt="image" src="https://github.com/user-attachments/assets/2970023e-e56b-40d8-a458-a4e66be9e5e2" />
 
 ## RESULT:
 The back end of the compiler is implemented successfully, and the output is verified.
